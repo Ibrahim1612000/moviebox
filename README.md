@@ -4,14 +4,54 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+# Next — README for Movies App
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Here is another professional one for your **Movies App**.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 🎬 Movies & Series App
+
+A Flutter application that allows users to explore movies and TV series with detailed information, ratings, and search functionality.
+
+---
+
+## ✨ Features
+
+- 🎥 Browse popular movies
+- 📺 Browse TV series
+- 🔍 Search movies and series
+- ⭐ View ratings and details
+- 📝 Movie descriptions
+- 🎨 Modern UI design
+
+---
+
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- OMDb API
+- REST API Integration
+- JSON Parsing
+
+---
+
+## 📸 Screenshots
+
+```markdown
+### 🎬 Movies Screen
+![Home](assets/screenshots/home.jpg)
+
+### 🔍 Search Screen
+![Search](assets/screenshots/search_page.jpg)
+
+### 📄 Details Screen
+![Details](assets/screenshots/info.jpg)
+
+### 📄 Faivorites Screen
+![Faivorites](assets/screenshots/faivorites_page.jpg)
+
+### 📄 Profile Screen
+![Profile](assets/screenshots/profile.jpg)
+

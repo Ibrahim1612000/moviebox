@@ -38,6 +38,7 @@ class HomeScreen extends ConsumerWidget {
       ),
     );
   }
+  // Helper method to build each movie section
 
   Widget _buildSection(
     BuildContext context, 
